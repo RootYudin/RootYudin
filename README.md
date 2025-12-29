@@ -43,10 +43,7 @@ I’m **Yudin Khatiwada**, a motivated **Cybersecurity student** with a strong i
 ---
 
 ## 📂 Projects
-> I am currently building cybersecurity-related projects.  
-> Repositories will be added as I progress.
-
-- 🔹 Coming soon…
+[![Theory Basics](https://img.shields.io/badge/GitHub-Theory%20Basics-blue?style=flat-square&logo=github)](https://github.com/RootYudin/Theory-basics-)
 
 ---
 
