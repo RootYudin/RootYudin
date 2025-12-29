@@ -44,6 +44,10 @@ I’m **Yudin Khatiwada**, a motivated **Cybersecurity student** with a strong i
 
 ## 📂 Projects
 [![Theory Basics](https://img.shields.io/badge/GitHub-Theory%20Basics-blue?style=flat-square&logo=github)](https://github.com/RootYudin/Theory-basics-)
+[![Zphisher Lab](https://img.shields.io/badge/GitHub-Zphisher%20Lab-blue?style=flat-square&logo=github)](https://github.com/RootYudin/-Zphisher-Lab)
+[![AndroRat Study](https://img.shields.io/badge/GitHub-AndroRat%20Study-blue?style=flat-square&logo=github)](https://github.com/RootYudin/AndroRat-Study)  
+[![Evillimiter Lab](https://img.shields.io/badge/GitHub-Evillimiter%20Lab-blue?style=flat-square&logo=github)](https://github.com/RootYudin/-Evillimiter-Lab)
+[![Devil's Call](https://img.shields.io/badge/GitHub-Devil's%20Call-blue?style=flat-square&logo=github)](https://github.com/RootYudin/Devil-s-Call)
 
 ---
 
