@@ -21,6 +21,7 @@ I’m **Yudin Khatiwada**, a motivated **Cybersecurity student** with a strong i
 ## 🎓 Education & Certification
 - **Pre-University Pathway**  
   *Presidential Graduate School*
+  - **Flag Forge CTF Participants**  
 
 ---
 
@@ -53,8 +54,7 @@ I’m **Yudin Khatiwada**, a motivated **Cybersecurity student** with a strong i
 
 ## 📈 Learning Goals
 - Build strong cybersecurity fundamentals  
-- Complete hands-on labs and simulations  
-- Participate in CTF challenges  
+- Complete hands-on labs and simulations    
 - Develop a professional cybersecurity portfolio  
 - Practice ethical and legal security testing
 
