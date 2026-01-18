@@ -21,7 +21,7 @@ I’m **Yudin Khatiwada**, a motivated **Cybersecurity student** with a strong i
 ## 🎓 Education & Certification
 - **Pre-University Pathway**  
   *Presidential Graduate School*
-  - **Flag Forge CTF Participants**  
+- **Flag Forge CTF Participants**  
 
 ---
 
