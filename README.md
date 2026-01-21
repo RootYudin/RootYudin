@@ -21,9 +21,8 @@ I’m **Yudin Khatiwada**, a motivated **Cybersecurity student** with a strong i
 ## 🎓 Education & Certification
 - **Pre-University Pathway**  
   *Presidential Graduate School*
-- **Flag Forge CTF Participants**  
+- **Flag Forge CTF Participants**
 
----
 
 ## 🔍 Areas of Interest
 - Ethical Hacking & Penetration Testing  
@@ -49,7 +48,11 @@ I’m **Yudin Khatiwada**, a motivated **Cybersecurity student** with a strong i
 [![AndroRat Study](https://img.shields.io/badge/GitHub-AndroRat%20Study-blue?style=flat-square&logo=github)](https://github.com/RootYudin/AndroRat-Study)  
 [![Evillimiter Lab](https://img.shields.io/badge/GitHub-Evillimiter%20Lab-blue?style=flat-square&logo=github)](https://github.com/RootYudin/-Evillimiter-Lab)
 [![Devil's Call](https://img.shields.io/badge/GitHub-Devil's%20Call-blue?style=flat-square&logo=github)](https://github.com/RootYudin/Devil-s-Call)
+[![TryHackMe: Networking](https://img.shields.io/badge/GitHub-TryHackMe%3A%20Networking-blue?style=flat-square&logo=github)](https://github.com/RootYudin/What-is-Networking)
+[![TryHackMe: Defensive Intro](https://img.shields.io/badge/GitHub-TryHackMe%3A%20Defensive%20Intro-blue?style=flat-square&logo=github)](https://github.com/RootYudin/tryhackme-defensive-intro)
+[![TryHackMe: Offensive Intro](https://img.shields.io/badge/GitHub-TryHackMe%3A%20Offensive%20Intro-blue?style=flat-square&logo=github)](https://github.com/RootYudin/tryhackme-offensive-intro) 
 
+---
 ---
 
 ## 📈 Learning Goals
